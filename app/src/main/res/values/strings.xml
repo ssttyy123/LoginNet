@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginNet</string>
+    <string name="UserId">User Id</string>
+    <string name="SaveButton">Save</string>
+    <string name="ConnectionButton">Connection</string>
+    <string name="PasswordHint">User Password</string>
+    <string-array name="supplier">
+        <item>CMCC</item>
+        <item>CHINANET</item>
+    </string-array>
+</resources>
